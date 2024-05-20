@@ -102,10 +102,3 @@ a:hover {
 .tecnologias ul {
     list-style: none;
 }
-
-/*@media (prefers-color-scheme: dark) {
-    body {
-background: rgb(89,39,176);
-background: linear-gradient(90deg, rgba(89,39,176,1) 5%, rgba(255,255,255,1) 40%, rgba(255,255,255,0.5396533613445378) 60%, rgba(89,39,176,1) 95%);
-    }
-}*/
